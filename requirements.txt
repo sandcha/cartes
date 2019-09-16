@@ -1,0 +1,4 @@
+pandas<0.26
+geopandas<0.6
+matplotlib<3.2
+descartes<1.2
