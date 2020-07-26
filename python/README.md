@@ -2,7 +2,7 @@
 
 Génération de figures cartographiques à partir de données géographiques.
 
-## Tunisie
+## 🐍Tunisie
 
 Génération de la carte de la Tunisie en Python.
 
