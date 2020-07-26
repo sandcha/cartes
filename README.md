@@ -2,9 +2,17 @@
 
 Génération de figures cartographiques à partir de données géographiques.
 
+## 🌱France
+
+### Ressources
+
+Code [anct-carto](https://github.com/anct-carto/dgf_2020) de l'Agence nationale de la cohésion des territoires dans sa [version du 20 avril 2020](https://github.com/anct-carto/dgf_2020/tree/ed52e5ab994761b72fba0bfc7a4ca8defffadd4a).
+
 ## 🐍Tunisie
 
-Génération de la carte de la Tunisie en Python.
+Génération de la carte de Tunisie en Python.
+
+> Le code source traité dans cette section est disponible dans le répertoire `/python`.
 
 ### Installation
 
@@ -14,7 +22,7 @@ Pour l'installer, ouvrir un terminal bash et exécuter la commande suivante :
 
 `pip install -r requirements.txt`
 
-### Génération de la carte
+### Visualisation de la carte
 
 Dans un terminal bash, exécuter la commande suivante :
 
