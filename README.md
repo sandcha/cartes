@@ -2,13 +2,21 @@
 
 Génération de figures cartographiques à partir de données géographiques.
 
-## 🌱France
+## 🌱 France
+
+Génération de la carte de France avec [Leaflet](https://leafletjs.com) (librairie JavaScript).
+
+> Le code source traité dans cette section est disponible dans le répertoire `/javascript`.
+
+### Visualisation de la carte
+
+Dans un navigateur, ouvrir le fichier `index.html`.
 
 ### Ressources
 
 Code [anct-carto](https://github.com/anct-carto/dgf_2020) de l'Agence nationale de la cohésion des territoires dans sa [version du 20 avril 2020](https://github.com/anct-carto/dgf_2020/tree/ed52e5ab994761b72fba0bfc7a4ca8defffadd4a).
 
-## 🐍Tunisie
+## 🐍 Tunisie
 
 Génération de la carte de Tunisie en Python.
 
