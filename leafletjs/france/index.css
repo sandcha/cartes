@@ -1,0 +1,22 @@
+body {
+	padding: 0;
+	margin:0;
+    }
+
+html, body, #mapid {
+    height: 100%;
+	font-family: 'Asap', sans-serif;
+    color: #c8c8d2;
+    }
+
+a:hover {
+    color : #ffee00;
+    }
+
+#indicateur1{
+    background-color:#f4661d;
+}
+
+#indicateur2{
+    background-color:#00968c;
+}
